@@ -70,8 +70,8 @@
         <li>
           <strong>Second Generation (1956-1963)</strong>: Used transistors instead of vacuum tubes.
           <img 
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/IBM7090.jpg/320px-IBM7090.jpg" 
-              alt="IBM 7090 computer using transistors - second generation" 
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IBM_7094_console3.agr.jpg/250px-IBM_7094_console3.agr.jpg" 
+              alt="IBM 7094 console - second generation" 
               width="300"
               loading="lazy"
           />
