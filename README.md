@@ -61,10 +61,10 @@
         <li>
           <strong>First Generation (1940-1956)</strong>: Used vacuum tubes.
           <img 
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ENIAC.jpg/320px-ENIAC.jpg" 
-              alt="ENIAC computer - first generation" 
-              width="300"
-              loading="lazy"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Atanasoff-Berry_Computer_at_Durhum_Center.jpg/250px-Atanasoff-Berry_Computer_at_Durhum_Center.jpg" 
+            alt="ENIAC computer - first generation" 
+            width="300" 
+            loading="lazy"
           />
         </li>
         <li>
