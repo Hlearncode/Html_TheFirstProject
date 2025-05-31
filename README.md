@@ -61,28 +61,28 @@
         <li>
           <strong>First Generation (1940-1956)</strong>: Used vacuum tubes.
           <img 
-            src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ENIAC.jpg/320px-ENIAC.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/ENIAC_Penn1.jpg/250px-ENIAC_Penn1.jpg)" 
-            alt="ENIAC computer - first generation" 
-            width="300"
-            loading="lazy"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ENIAC.jpg/320px-ENIAC.jpg" 
+              alt="ENIAC computer - first generation" 
+              width="300"
+              loading="lazy"
           />
         </li>
         <li>
           <strong>Second Generation (1956-1963)</strong>: Used transistors instead of vacuum tubes.
           <img 
-            src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/IBM7090.jpg/320px-IBM7090.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IBM_7094_console3.agr.jpg/250px-IBM_7094_console3.agr.jpg)" 
-            alt="IBM 7090 computer using transistors - second generation" 
-            width="300"
-            loading="lazy"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/IBM7090.jpg/320px-IBM7090.jpg" 
+              alt="IBM 7090 computer using transistors - second generation" 
+              width="300"
+              loading="lazy"
           />
         </li>
         <li>
           <strong>Third Generation (1964-1971)</strong>: Used integrated circuits (ICs).
           <img 
-            src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/DEC_PDP-8_I_BW.jpg/320px-DEC_PDP-8_I_BW.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/PDP-8_%281%29.jpg/250px-PDP-8_%281%29.jpg)" 
-            alt="PDP-8 computer using ICs - third generation" 
-            width="300"
-            loading="lazy"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/PDP-8_%281%29.jpg/250px-PDP-8_%281%29.jpg" 
+              alt="PDP-8 computer using ICs - third generation" 
+              width="300"
+              loading="lazy"
           />
         </li>
       </ol>
