@@ -61,7 +61,7 @@
         <li>
           <strong>First Generation (1940-1956)</strong>: Used vacuum tubes.
           <img 
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ENIAC.jpg/320px-ENIAC.jpg" 
+              src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ENIAC.jpg/320px-ENIAC.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IBM_7094_console3.agr.jpg/250px-IBM_7094_console3.agr.jpg)" 
               alt="ENIAC computer - first generation" 
               width="300"
               loading="lazy"
