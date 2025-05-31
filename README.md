@@ -1,10 +1,45 @@
-# Html_TheFirstProject
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>The Evolution of Computers</title>
+  <style>
+    /* Tối giản CSS để ảnh không dính sát text */
+    img {
+      display: block;
+      margin-top: 0.5em;
+      margin-bottom: 1em;
+      max-width: 100%;
+      height: auto;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: 2em auto;
+      padding: 0 1em;
+      color: #222;
+    }
+    nav ul {
+      list-style: none;
+      padding-left: 0;
+      display: flex;
+      gap: 1em;
+    }
+    nav a {
+      text-decoration: none;
+      color: #0366d6;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 3em;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
 </head>
 <body>
   <header>
@@ -23,27 +58,30 @@
       <h2>Stages of Development</h2>
       <ol>
         <li>
-          <strong>First Generation (1940-1956)</strong>: Used vacuum tubes.<br />
+          <strong>First Generation (1940-1956)</strong>: Used vacuum tubes.
           <img 
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ENIAC.jpg/320px-ENIAC.jpg" 
             alt="ENIAC computer - first generation" 
             width="300"
+            loading="lazy"
           />
         </li>
         <li>
-          <strong>Second Generation (1956-1963)</strong>: Used transistors instead of vacuum tubes.<br />
+          <strong>Second Generation (1956-1963)</strong>: Used transistors instead of vacuum tubes.
           <img 
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/IBM7090.jpg/320px-IBM7090.jpg" 
             alt="IBM 7090 computer using transistors - second generation" 
             width="300"
+            loading="lazy"
           />
         </li>
         <li>
-          <strong>Third Generation (1964-1971)</strong>: Used integrated circuits (ICs).<br />
+          <strong>Third Generation (1964-1971)</strong>: Used integrated circuits (ICs).
           <img 
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/DEC_PDP-8_I_BW.jpg/320px-DEC_PDP-8_I_BW.jpg" 
             alt="PDP-8 computer using ICs - third generation" 
             width="300"
+            loading="lazy"
           />
         </li>
       </ol>
@@ -63,7 +101,7 @@
     <h2 id="references">References</h2>
     <p>
       Read more at: 
-      <a href="https://en.wikipedia.org/wiki/Computer" target="_blank" rel="noopener">Wikipedia - Computer</a>
+      <a href="https://en.wikipedia.org/wiki/Computer" target="_blank" rel="noopener noreferrer">Wikipedia - Computer</a>
     </p>
     <p>This website is created for learning and accessibility assessment purposes.</p>
   </footer>
