@@ -5,13 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>The Evolution of Computers</title>
   <style>
-    /* Tối giản CSS để ảnh không dính sát text */
+    /* Tối giản CSS để ảnh không dính sát text và căn giữa */
     img {
       display: block;
       margin-top: 0.5em;
       margin-bottom: 1em;
       max-width: 100%;
       height: auto;
+      margin-left: auto;
+      margin-right: auto;
     }
     body {
       font-family: Arial, sans-serif;
@@ -49,8 +51,7 @@
        <li><a href="https://en.wikipedia.org/wiki/History" target="_blank">History</a></li>
        <li><a href="https://en.wikipedia.org/wiki/Application_software" target="_blank">Applications</a></li>
        <li><a href="https://en.wikipedia.org/wiki/Reference" target="_blank">References</a></li>
-       </ul>
-
+     </ul>
     </nav>
   </header>
 
